@@ -1,4 +1,4 @@
-# jnuBigPicture_LM
+# GSM_LLM Study
 
 LLM 프로젝트를 시작하고, 운용하고, 관리하는 방법 학습  
 ![diagram](./images/diagram.png)  
